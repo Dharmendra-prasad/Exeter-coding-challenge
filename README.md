@@ -1,10 +1,10 @@
 # Exeter-coding-challenge
 
-# main.ipynb is main programme of this challange.
+main.ipynb is main programme of this challange.
 
-# Try to run this code on jupyter IDE.
+Try to run this code on jupyter IDE.
 
-# Make sure all the required file french_dictionary.csv, t8.shakespeare.txt should be in same folder.
+Make sure all the required file french_dictionary.csv, t8.shakespeare.txt should be in same folder.
 
 
 
